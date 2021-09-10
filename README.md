@@ -1,0 +1,2 @@
+# Motivational_Speech_Wallpaper
+RecursionCSのプロジェクト1-1
