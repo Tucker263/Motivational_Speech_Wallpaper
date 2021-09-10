@@ -1,0 +1,11 @@
+.bg-imgSize{
+    width: 500px;
+    height: 300px;
+}
+
+@media(min-width:992px){
+    .bg-imgSize{
+        width: 750px;
+        height: 450px;
+    }
+}
